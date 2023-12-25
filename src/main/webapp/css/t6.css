@@ -1,0 +1,89 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+html{
+    font-family: "Segoe UI",Arial,  sans-serif;
+}
+.title-bar {
+	width: 100%;
+  	background-color: #e0dfdf;
+  	overflow: auto;
+  	position: absolute;
+}
+.title-bar div {
+	float: left;
+}
+.tieude {
+	font-size: 24px; 
+}
+.menu-bar {
+	position: absolute;
+	right: 0px;
+	top: 6px;
+}
+.menu-bar i {
+	padding: 3px 3px;
+}
+.menu-bar i:hover {
+	 background-color: #c0c0c0;
+}
+.edit-area {
+	position: relative;
+	top: 30px;
+}
+.edit-area input {
+	border: none;
+}
+
+.row {
+    float: inherit;
+    width: 1520px;
+}
+.edit-area div{
+	font-size: 24px;
+	padding: 5px 5px;
+}
+.label-to .row-1{
+	top: 9px;
+	position: absolute;
+	left: 65px;
+ 	height: 30px;
+}
+.label-to a{
+	color: #0e0e0e;
+}
+.label-title .row-2{
+	top: 51px;
+	left: 0px;
+	height: 30px;
+}
+.content input{
+	top: 58px;
+	left: 0px;	
+	width: 1535px;
+	height: 30px;
+}
+button {
+	color: #fff;
+	background-color: #0a17c0;
+	border-color: #0a17c0;
+}
+.tool-bar .send-1{
+	position: absolute;
+	bottom: 20px; 
+	width: 68px;
+	height: 35px;
+	left:5px;
+	border-radius: 16px 0px 0px 16px;
+}
+.tool-bar .send-2{
+	position: absolute;
+	bottom: 20px; 
+	left: 70px;
+	width: 30px;
+	height: 35px;
+	border-radius:  0px 16px 16px 0px;
+	
+}
