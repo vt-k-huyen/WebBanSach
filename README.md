@@ -1,6 +1,6 @@
 # WebBanSach
 
-* Giới thiệu: Ứng dụng web đơn giản giúp quản lý bán sách qua mạng và đặt mua sách qua mạng. 
+* Giới thiệu: Ứng dụng web đơn giản giúp quản lý bán sách qua mạng và đặt mua sách qua mạng bằng Java Servlet.
 * Cài đặt:
   - apache-tomcat-8.5.34
   - SQL Server 2014 trở đi
