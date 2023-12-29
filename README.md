@@ -5,7 +5,7 @@
   - apache-tomcat-8.5.34
   - SQL Server 2014 trở đi
   - IDE: Eclipse IDE for Enterprise Java Developer
-* Các tính năng:
+* http://localhost:8080/WebBanSach/sachController
 - User
 ![image](https://github.com/vt-k-huyen/WebBanSach/assets/124071831/6f7fdcf6-8481-466e-b090-2f88e04c6a9a)
 -Admin
